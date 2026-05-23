@@ -1,0 +1,6 @@
+{
+  "name": "AgroLink Kenya",
+  "description": "An intelligent AI-powered agricultural platform for farmers in Kenya and East Africa featuring AI crop disease scanning, Kiswahili/English voice chatbot advisory, weather intelligence, and live local market prices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
